@@ -1,4 +1,4 @@
-# Hello World! `main`
+# Hello World!
 
 &nbsp;
 
@@ -11,7 +11,10 @@
 
 ## Favourite things
 - **Purple**
-- _Mango_
+- _Fruit_
+  - Mango
+  - Lychee
+  - Watermelon
 - Blankets
 - `Code` 
 
