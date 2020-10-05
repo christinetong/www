@@ -24,8 +24,10 @@
 printf("Hello world!\n");
 ```
 
-### Links
+##### Last updated: Oct 5, 2020
 
-[Edit](https://github.com/christinetong/www/edit/main/index.md) | [Settings](https://github.com/christinetong/www/settings) | [Help](https://guides.github.com/features/mastering-markdown) | [Docs](https://docs.github.com/categories/github-pages-basics/) | [Contact GitHub](https://github.com/contact)
+<!---
+### Links
+[Edit](https://github.com/christinetong/www/edit/main/index.md) | [Settings](https://github.com/christinetong/www/settings) | [Help](https://guides.github.com/features/mastering-markdown) | [Docs](https://docs.github.com/categories/github-pages-basics/) | [Contact GitHub](https://github.com/contact) --->
 
 
