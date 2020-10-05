@@ -1,10 +1,10 @@
-# Hello World!
+# About me
 
 &nbsp;
 
 ![Octocat](octocatSmall.png)
 
-## About me
+## Fun facts
 1. Animal lover
 2. Foodie
 3. Geek
