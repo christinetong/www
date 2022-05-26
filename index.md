@@ -4,6 +4,9 @@
 
 ![Octocat](octocatSmall.png)
 
+* [Zoom](https://tinyurl.com/zoom-ct)
+
+<!---
 ## Fun facts
 1. Animal lover
 2. Foodie
@@ -23,6 +26,7 @@
 ```cpp
 printf("Hello world!\n");
 ```
+--->
 
 ##### Last updated: Oct 5, 2020
 
