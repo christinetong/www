@@ -1,5 +1,3 @@
-# About me
-
 &nbsp;
 
 ![Octocat](octocatSmall.png)
