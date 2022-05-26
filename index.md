@@ -4,7 +4,8 @@
 
 ![Octocat](octocatSmall.png)
 
-* [Zoom](https://tinyurl.com/zoom-ct)
+* [Zoom](https://christinetong.github.io/www/lkZoom.html)
+* [Gather.Town](https://christinetong.github.io/www/lkGather.html)
 
 <!---
 ## Fun facts
